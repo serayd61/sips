@@ -77,3 +77,12 @@ Once they are in the process of being activated,
 they use a SIP's Activation section to determine whether or not the Stacks
 ecosystem has ratified or rejected the SIP.  Joining this committee requires the
 consent of the Stacks Foundation board.
+---
+
+## Fork Notes
+
+Forked by [@serayd61](https://github.com/serayd61) for SIP proposal tracking.
+
+### Contributions
+- Following DeFi-related SIPs
+- Proposing new standards for monitoring
